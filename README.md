@@ -32,7 +32,7 @@ http://www.microsoft.com/en-us/download/details.aspx?id=5582
 - Auto mule
 - Can get EXP shrine before baal
 - Realm down blocker
-
+-------------------------------------------
 
 
 I would say overall Kolbot is one of the best bots, I did not create this bot I am just sharing this with you as it is the best bot I have ever used.
