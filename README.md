@@ -1,6 +1,9 @@
 2bot-with-kolbot-
 =================
 
+I am working on uploading it on github too, to download go to this URL:
+https://sourceforge.net/projects/d2bot/files/latest/download?source=dlp
+
 Private - Modified Version of kolbot Uses newer Core
 
 2bot-with-kolbot‎
