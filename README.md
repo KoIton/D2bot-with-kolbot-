@@ -1,6 +1,6 @@
-2bot-with-kolbot-
+D2bot-with-kolbot-
 =================
-
+<p>Originally <a href="http://atom.io/docs/latest/converting-a-text-mate-bundle">converted</a>
 I am working on uploading it on github too, to download go to this URL:
 https://sourceforge.net/projects/d2bot/files/latest/download?source=dlp
 
