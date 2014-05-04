@@ -1,4 +1,4 @@
-<a href="http://kolbot.orgfree.com.com/D2bot-with-kolbot-3.6.2.3%20Newer%20D2Bs%20Core.exe">D2bot-with-kolbot-DOWNLOAD HERE</a>
+<a href="http://kolbot.orgfree.com/">D2bot-with-kolbot-DOWNLOAD HERE</a>
 =================
 I am working on uploading it on github too, to download go to this URL:
 https://sourceforge.net/projects/d2bot/files/latest/download?source=dlp
