@@ -40,4 +40,4 @@ If you need help feel free to email me: Varbool2@gmail.com
 
 
 Keywords for Seo: Diablo II, Diablo 2, D2, Dupe, Bot, MF, Magicfind, Dclone, Clientless, Auto Aim,
-Maphack, rollback, hybrid runeword Exploit d2jsp, d3jsp, d1jsp, d2legit, lewt, d2craft, d2coffee
+Maphack, rollback, hybrid runeword Exploit d2jsp, d3jsp, d1jsp, d2legit, lewt, d2craft, d2coffee, Kolbot Github
