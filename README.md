@@ -38,6 +38,10 @@ So I take no Credit for making it.
 
 If you need help feel free to email me: Varbool2@gmail.com
 
+Other Downloads:
+Project 2.0 And Etal(d2nt): http://d2bot.weebly.com/diablo-ii.html
+
 
 Keywords for Seo: Diablo II, Diablo 2, D2, Dupe, Bot, MF, Magicfind, Dclone, Clientless, Auto Aim,
 Maphack, rollback, hybrid runeword Exploit d2jsp, d3jsp, d1jsp, d2legit, lewt, d2craft, d2coffee, Kolbot Github
+
