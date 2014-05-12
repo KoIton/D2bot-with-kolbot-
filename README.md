@@ -1,4 +1,4 @@
-<a href="https://github.com/kolton/d2bot-with-kolbot">D2bot-with-kolbot-DOWNLOAD HERE</a>
+<a href="https://github.com/kolton/d2bot-with-kolbot/archive/master.zip">D2bot-with-kolbot-DOWNLOAD HERE</a>
 =================
 
 Private - Modified Version of kolbot Uses newer Core
